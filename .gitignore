@@ -1,1 +1,7 @@
 .env
+.DS_Store
+.obsidian/
+dropout_log.json
+dropouts.csv
+dropouts_agent_batch.csv
+rollback/
