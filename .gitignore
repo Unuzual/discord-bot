@@ -5,3 +5,4 @@ dropout_log.json
 dropouts.csv
 dropouts_agent_batch.csv
 rollback/
+.env
